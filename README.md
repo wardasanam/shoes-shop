@@ -1,16 +1,39 @@
-# React + Vite
+# **Shoes Shop (Zenith Kicks)**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern e-commerce frontend built with React, Vite, and Tailwind CSS, featuring a Neo-Brutalist design aesthetic.
 
-Currently, two official plugins are available:
+## **Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Neo-Brutalist Design:** High-contrast, bold typography, and acid lime accents.  
+* **Interactive UI:** Custom cursor, hover effects, and animated transitions.  
+* **Product Filtering:** Filter by category (Men, Women, Sale) or style (Sport, Sneaker, etc.).  
+* **Cart System:** Functional cart drawer with quantity management.  
+* **Responsive:** Optimized for desktop and mobile devices.
 
-## React Compiler
+## **Getting Started**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### **Prerequisites**
 
-## Expanding the ESLint configuration
+Ensure you have Node.js installed on your machine.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Installation**
+
+1. Clone the repository (or download the source).  
+2. Install dependencies:
+
+npm install
+
+### **Running the App**
+
+Start the development server:
+
+npm run dev
+
+The app will typically run at http://localhost:5173.
+
+## **Technologies**
+
+* [React](https://reactjs.org/)  
+* [Vite](https://vitejs.dev/)  
+* [Tailwind CSS](https://tailwindcss.com/)  
+* [Lucide React](https://lucide.dev/) (Icons)
